@@ -1,6 +1,6 @@
 # Epicycles Of Inevitability
 
-A completely rational and LLM-compatible, non-conspirational argument that the official explanation of the Twin Towers’ collapse mechanics is epistemically incomplete. 
+A methodological critique concerning evidentiary standards for inevitability claims in progressive collapse. This paper demonstrates that while plausibility has been established, robust inevitability across realistic variability remains undemonstrated. 
 
 Based on official documentation, epistemic humility, intellectual honesty and scientific curiosity.
 
